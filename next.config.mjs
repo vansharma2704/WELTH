@@ -5,6 +5,8 @@ images: {
         {
             protocol : "https",
             hostname: "randomuser.me",
+            port: '',
+            pathname: '/api/portaits/**',
         },
     ],
 },
